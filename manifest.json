@@ -1,0 +1,86 @@
+{
+  "version": "v1.0.0",
+  "baseUrl": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/",
+  "signatureAlgorithm": "",
+  "signature": "",
+  "files": [
+    {
+      "path": "Dofus.exe",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/Dofus.exe",
+      "sha256": "db6b4ebe8dbd46ac5965a14ddc2b0f633815190a",
+      "size": 157472
+    },
+    {
+      "path": "Uplauncher_new.exe",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/Uplauncher_new.exe",
+      "sha256": "4f3ccd9c09d7a7c32dd8d388a1086ec2bbccb62d",
+      "size": 13091328
+    },
+    {
+      "path": "DofusInvoker.swf",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/DofusInvoker.swf",
+      "sha256": "eee2d824e452ac6f34dc80c17dc1c2c767ba4480",
+      "size": 11840209
+    },
+    {
+      "path": "DiscordRPC.dll",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/DiscordRPC.dll",
+      "sha256": "9d8a861dada67b71c7ae361058ecdb4008a56bb5",
+      "size": 83968
+    },
+    {
+      "path": "Newtonsoft.Json.dll",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/Newtonsoft.Json.dll",
+      "sha256": "7af125a246d180e71b9c4a20cca73cc44bfa8902",
+      "size": 701992
+    },
+    {
+      "path": "Shadow.Sound.dll",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/Shadow.Sound.dll",
+      "sha256": "5eed5e83424f035708b14f62e6e003c626f8c396",
+      "size": 14848
+    },
+    {
+      "path": "steam_api.dll",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/steam_api.dll",
+      "sha256": "407934b7d53d2e315678eb7c8144e4992d27483f",
+      "size": 225056
+    },
+    {
+      "path": "config.xml",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/config.xml",
+      "sha256": "339b6f8eae710e9bc0deef15d42ae787c69bdb7a",
+      "size": 11864
+    },
+    {
+      "path": "config.meta",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/config.meta",
+      "sha256": "5c63ea526f0944e7a70dc6223cf55cde0ead4a8f",
+      "size": 127
+    },
+    {
+      "path": "dofus.ici",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/dofus.ici",
+      "sha256": "c0a83c76beae17b24c88c553abd6ebc7c7edf950",
+      "size": 14475
+    },
+    {
+      "path": "log4as.xml",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/log4as.xml",
+      "sha256": "81c64dc36f6cb35e2e9ecb5a156d4febe5c05787",
+      "size": 33
+    },
+    {
+      "path": "log4as-reg.xml",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/log4as-reg.xml",
+      "sha256": "da5e49c473d019b0c4e299c84074ee0f10d9452e",
+      "size": 35
+    },
+    {
+      "path": "mimetype",
+      "url": "https://raw.githubusercontent.com/omatheusberteli-cloud/Dofus-Fury/main/mimetype",
+      "sha256": "21b11172b61468d7f335c8c7eef6d537f68b8f9e",
+      "size": 59
+    }
+  ]
+}
